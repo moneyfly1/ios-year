@@ -1,7 +1,6 @@
 #eddiehome
 ssr://c2doazAyLm51cm9jcy5jb206NjQ3OTI6b3JpZ2luOnNhbHNhMjA6aHR0cF9zaW1wbGU6UldZMlNrSmEvP3JlbWFya3M9NWEybTVweXY1THFrNXJXQklPV0x2LWl3aU9XYnZlYVlyeURscG9MbW5JbnBsNjdwb3BnZzVwdTA1cGF3Nks2aTZaaUYmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPVpHOTNibXh2WVdRdWQybHVaRzkzYzNWd1pHRjBaUzVqYjIw
-ssr://MToxOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpNUS8_cmVtYXJrcz01TGlsNTZhQjVMdWo1NUNHWW5Ua3VJdm92YjN2dklIbHBvTG1uSW5sajVIbmpyRG5xNHZsamJQbHNJSG5wb0UmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
-trojan://T9MTTc@jp69.huashaobei.com:443?peer=#ed%20%E6%97%A5%E6%9C%AC1
-trojan://T9MTTc@kcd.pikaqiu.win:443?peer=#ed%20US%E5%A5%88%E9%A3%9E
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU1J3RG0@us-rfc-los.synr.asia:13502?plugin=simple-obfs;obfs=tls;obfs-host=hk2sch7cea115433.wns.windows.com;obfs-uri=/#ed%20%E7%BE%8E%E5%9B%BD%204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU1J3RG0@us-rfc.synr.asia:7107?plugin=simple-obfs;obfs=tls;obfs-host=hk2sch7cea115433.wns.windows.com;obfs-uri=/#ed%20%E7%BE%8E%E5%9B%BD3
+trojan://T9MTTc@sgp2-blog.huashaobei.com:443?peer=#ed%20SG
+trojan://T9MTTc@sgp2-blog.huashaobei.com:443?peer=#ed%20SG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU1J3RG0@v2-node45.mimemi-9mih.com:13132?plugin=simple-obfs;obfs=tls;obfs-host=hk2sch7cea115433.wns.windows.com;obfs-uri=/#ed%20%E9%A6%99%E6%B8%AF%2027%20HKBN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU1J3RG0@v4-node85.mimemi-9mih.com:7015?plugin=simple-obfs;obfs=tls;obfs-host=hk2sch7cea115433.wns.windows.com;obfs-uri=/#ed%20%E6%97%A5%E6%9C%AC%2010%20KDDI
