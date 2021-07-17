@@ -1,8 +1,5 @@
 #eddiehome
-ssr://c2doazAyLm51cm9jcy5jb206NjQ3OTI6b3JpZ2luOnNhbHNhMjA6aHR0cF9zaW1wbGU6UldZMlNrSmEvP3JlbWFya3M9NWEybTVweXY1THFrNXJXQklPV0x2LWl3aU9XYnZlYVlyeURscG9MbW5JbnBsNjdwb3BnZzVwdTA1cGF3Nks2aTZaaUYmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPVpHOTNibXh2WVdRdWQybHVaRzkzYzNWd1pHRjBaUzVqYjIw
-trojan://T9MTTc@vmach-bu.tkblogs.win:443?peer=#T%E9%9B%AA%E8%8A%B1%E9%85%A5US%E8%8A%82%E7%82%B9%20tkvpn.github.io
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6YjI0N2JlNzEtMzJiZC0zZGY1LWE5ZjItODEwYjViZGQ1ZTY5QHNkLmRqc3ltLmNvbTo1MDA0Nw?remarks=%E6%97%A5%E6%9C%AC1%20%20%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81%20%E6%97%A0%E8%B0%88%E5%9B%BD%E6%98%AF%E3%80%82wei%EF%BC%9Aeddiehome001&obfsParam=sd.djsym.com&path=/qq&obfs=websocket&cert=
-trojan://400346e7-e461-3efd-a22a-6c71da09ec1ecmynw@kaizen-us-01.cn0.me:443?peer=paydiu.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%E4%BC%98%E5%8C%96%EF%BD%9C%E7%BE%8E%E5%9B%BD-01%20%5B0.5%5D
-vmess://YXV0bzphZWNhZDVmMS01OWFkLTQxOTUtOTA0OC0xOTQyN2FlMjAxZDFAMDA1LkhLLkFQLlBPUC5CSUdBSVJQT1JULk5FVDo4MA?remarks=%E3%80%90%E7%9B%B4%E8%BF%9E%E3%80%91HKG/%E9%A6%99%E6%B8%AF%20A%20-%205&obfs=websocket&cert=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU1J3RG0@v4-node62.mimemi-9mih.com:7013?plugin=simple-obfs;obfs=tls;obfs-host=hk2sch7cea115433.wns.windows.com;obfs-uri=/#%E3%80%90V3%20%7C%20Tunnel%E3%80%91%E6%97%A5%E6%9C%AC%202%20KDDI%201.5%E5%80%8D%E7%8E%87
-ssr://djMtbm9kZTQzLm1pbWVtaS15N2V6LmNvbTo3OTAxOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YldsdFpXMXAvP3JlbWFya3M9NDRDUVZqTWdmQ0JVZFc1dVpXempnSkhsbkpfb2dMUGxoYllnUVEmcHJvdG9wYXJhbT1NVFUwTXpNNmJXbHRaVzFwJm9iZnNwYXJhbT1hR3N5YzJOb04yTmxZVEV4TlRRek15NTNibk11ZDJsdVpHOTNjeTVqYjIw
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:33893/?peer=hk01.naigai.one#%E9%A6%99%E6%B8%AF01%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E5%BE%AE%E8%BD%AF%E9%9A%A7%E9%81%93
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:33894/?peer=us01.naigai.one#%E7%BE%8E%E5%9B%BD01%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E5%BE%AE%E8%BD%AF%E9%9A%A7%E9%81%93
+vmess://YXV0bzphZWNhZDVmMS01OWFkLTQxOTUtOTA0OC0xOTQyN2FlMjAxZDFAMDA0LkhLLkFQLlBPUC5CSUdBSVJQT1JULk5FVDo4MA?remarks=%E3%80%90%E7%9B%B4%E8%BF%9E%E3%80%91HKG/%E9%A6%99%E6%B8%AF%20A%20-%204&obfs=websocket&cert=
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@de01.naigai.one:443/?peer=de01.naigai.one#%E5%BE%B7%E5%9B%BD03%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E7%9B%B4%E8%BF%9E%E7%BA%BF%E8%B7%AF
