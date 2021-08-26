@@ -4,3 +4,5 @@ ssr://djItbm9kZTIzLm1pbWVtaS15N2V6LmNvbToxMzEzMzphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:55790/?peer=hkzl.bot666.xyz#%E9%A6%99%E6%B8%AF01%E4%B8%A8%E6%9E%81%E9%80%9F%E4%B8%A8%E5%BE%AE%E8%BD%AF%E9%9A%A7%E9%81%93
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr2.naigai.one:33891/?peer=sg01.naigai.one#%E6%96%B0%E5%8A%A0%E5%9D%A101%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E5%BE%AE%E8%BD%AF%E9%9A%A7%E9%81%93
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr2.naigai.one:5559/?peer=jnd.bot666.xyz#%E5%8A%A0%E6%8B%BF%E5%A4%A701%E4%B8%A8%E6%9E%81%E9%80%9F%E4%B8%A8%E5%BE%AE%E8%BD%AF%E9%9A%A7%E9%81%93
+ss://YWVzLTEyOC1nY206OUNVNDRJ@in02.node.beer:8611/?plugin=simple-obfs;obfs=http;obfs-host=df04b36534.microsoft.com;obfs-uri=/#%E6%97%A5%E6%9C%AC%2001
+ss://YWVzLTEyOC1nY206OUNVNDRJ@in05.node.beer:8665/?plugin=simple-obfs;obfs=http;obfs-host=df04b36534.microsoft.com;obfs-uri=/#%E9%A6%99%E6%B8%AF%2006
