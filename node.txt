@@ -1,6 +1,6 @@
 #eddiehome
-ssr://djItbm9kZTIzLm1pbWVtaS15N2V6LmNvbToxMzEzMzphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jdHI6dGxzMS4yX3RpY2tldF9hdXRoOmJXbHRaVzFwLz9yZW1hcmtzPTZhYVo1cml2SURBeCZwcm90b3BhcmFtPU1UVTBNek02YldsdFpXMXAmb2Jmc3BhcmFtPWFHc3ljMk5vTjJObFlURXhOVFF6TXk1M2JuTXVkMmx1Wkc5M2N5NWpiMjA
-ssr://MTYyLjE0LjE2LjIwNTo5OTQ6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY3RyOnRsczEuMl90aWNrZXRfYXV0aDpiV2x0WlcxcC8_cmVtYXJrcz01cGVsNXB5c0lEQXgmcHJvdG9wYXJhbT1NVFUwTXpNNmJXbHRaVzFwJm9iZnNwYXJhbT1hR3N5YzJOb04yTmxZVEV4TlRRek15NTNibk11ZDJsdVpHOTNjeTVqYjIw
+trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-jp-7.cn0.me:443?peer=paydiu.com#%E6%97%A5%E6%9C%AC-7
+trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-6.cn0.me:443?peer=paydiu.com#%E7%BE%8E%E5%9B%BD-06
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:33897?peer=tw01.bot666.xyz#ed%20%E5%8F%B0%E6%B9%BE01
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr2.naigai.one:33894?peer=us01.naigai.one#%E7%BE%8E%E5%9B%BD01
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr3.naigai.one:33899?peer=sg05.bot666.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A105
