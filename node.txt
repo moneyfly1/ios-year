@@ -1,6 +1,5 @@
 #eddiehome
-trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-jp-7.cn0.me:443?peer=paydiu.com#%E6%97%A5%E6%9C%AC-7
-trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-6.cn0.me:443?peer=paydiu.com#%E7%BE%8E%E5%9B%BD-06
-vmess://YXV0bzphZWNhZDVmMS01OWFkLTQxOTUtOTA0OC0xOTQyN2FlMjAxZDFAMDQ4LkFQLlBPUC5CSUdBSVJQT1JULk5FVDoxMjM1Ng?remarks=ICN/%E9%A6%96%E5%B0%94%20-%206&obfs=websocket&cert=
-ss://YWVzLTI1Ni1nY206YmM5YzIxODgtZWNkNy00NzVlLWFjNjUtM2JmYmJhY2VjZjZjQGNtLm5haWdhaS5vbmU6MTExNTY#%E6%96%B0%E5%8A%A0%E5%9D%A10
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@hgchgc2.yyyywe.top:10570/?allowInsecure=1&peer=hgchgc2.yyyywe.top#%E9%A6%99%E6%B8%AF01%E4%B8%A8%E6%9E%81%E9%80%9F%E4%B8%A8
+ss://YWVzLTI1Ni1nY206YmM5YzIxODgtZWNkNy00NzVlLWFjNjUtM2JmYmJhY2VjZjZjQHdyLm5haWdhaS5vbmU6Mzc5NQ#%E6%96%B0%E5%8A%A0%E5%9D%A105
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@hgchgc2.yyyywe.top:10570/?allowInsecure=1&peer=hgchgc2.yyyywe.top#%E9%A6%99%E6%B8%AF01%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8BGP%E4%BC%98%E5%8C%96
+ss://YWVzLTI1Ni1nY206YmM5YzIxODgtZWNkNy00NzVlLWFjNjUtM2JmYmJhY2VjZjZjQGhrMDguYm90NjY2Lnh5ejo1ODAx#%E9%A6%99%E6%B8%AF03%E4%B8%A8%E6%9E%81%E9%80%9F%E4%B8%A8%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96
+ssr://a2VlbTlib3Yubm9kZWluZm8uaWN1OjY1MDM6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXLz9yZW1hcmtzPVRHRWc1WS13NTRHak1ETSZwcm90b3BhcmFtPU1UazJNVEF6T2pOcFN6WkphdyZvYmZzcGFyYW09TXpSbFpXSXhPVFl4TURNdWQzZDNMbWR2ZGk1b2F3
