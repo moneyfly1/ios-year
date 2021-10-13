@@ -1,6 +1,4 @@
 #eddiehome
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@az.naigai1.club:10570/?allowInsecure=1&peer=hk01.naigai1.club#%E9%A6%99%E6%B8%AF0
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@az.naigai1.club:10801/?peer=tw04.naigai1.club#%E5%8F%B0%E6%B9%BE04
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@us02.naigai1.club:443/?peer=us02.naigai1.club#%E7%BE%8E%E5%9B%BD02
-vmess://YXV0bzpjOWExOTBhNi02NjAzLTRiZWEtYjEzOS1lZGEyYzEwYzQzNWVAaGswMi5pbnRlcm5ldHNtYXJ0cm91dGluZy50b3A6MjA1Njc?remarks=%E9%A6%99%E6%B8%AF%2002&obfsParam=apple.com&path=/Patti$Freud$4Clubs$spendable$lamar7$mollie7&obfs=websocket&cert=
-ssr://aXV4N3NoaXMubm9kZWluZm8uaWN1OjYwMDY6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXLz9yZW1hcmtzPVpXUWc2YWFaNXJpdk1EWSZwcm90b3BhcmFtPU1UazJNVEF6T2pOcFN6WkphdyZvYmZzcGFyYW09TXpSbFpXSXhPVFl4TURNdWQzZDNMbWR2ZGk1b2F3
+ssr://MTIxLjM3LjIxMC4xODY6MTA1MTphdXRoX2FlczEyOF9tZDU6cmM0LW1kNTpodHRwX3NpbXBsZTpWakpsWmt4dVVqTlRTbHB5Lz9yZW1hcmtzPVZpRHBwcG5tdUs4JnByb3RvcGFyYW09TVRRNE1ERXhPbVJvWTI1SE9RJm9iZnNwYXJhbT1PREZoWW1ReE5EZ3dNVEV1ZW1oaGIyb3VhVzQ
+vmess://YXV0bzo2OWM1YWQ4Ni1jYzAzLTNiZWMtOTE0ZS1iOWFhZmRmNjEzYWFAaW4wNS5kZG5zMTY4LmNvbTo2MTA1Nw?remarks=%E5%8F%B0%E6%B9%BE02&obfsParam=cdn.bootcdn.net&path=/hls&obfs=websocket&cert=
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@sg11.naigai1.club:443/?peer=sg11.naigai1.club#%E7%8B%AE%E5%9F%8E06
