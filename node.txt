@@ -1,4 +1,4 @@
 #eddiehome
 ssr://MTIxLjM3LjIxMC4xODY6MTA1MTphdXRoX2FlczEyOF9tZDU6cmM0LW1kNTpodHRwX3NpbXBsZTpWakpsWmt4dVVqTlRTbHB5Lz9yZW1hcmtzPVZpRHBwcG5tdUs4JnByb3RvcGFyYW09TVRRNE1ERXhPbVJvWTI1SE9RJm9iZnNwYXJhbT1PREZoWW1ReE5EZ3dNVEV1ZW1oaGIyb3VhVzQ
-vmess://YXV0bzo2OWM1YWQ4Ni1jYzAzLTNiZWMtOTE0ZS1iOWFhZmRmNjEzYWFAaW4wNS5kZG5zMTY4LmNvbTo2MTA1Nw?remarks=%E5%8F%B0%E6%B9%BE02&obfsParam=cdn.bootcdn.net&path=/hls&obfs=websocket&cert=
+ssr://c2hhbmdoYWktYW55Y2FzdC52b2RhZm9uZS5jeW91OjMwMTc6YXV0aF9hZXMxMjhfc2hhMTphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpZMUZPT0hKV1dubFhRVW8vP3JlbWFya3M9UVhNZzVwZWw1cHlzSURFNCZwcm90b3BhcmFtPU16SXdPRGc1T2tOSlRtNUtZZyZvYmZzcGFyYW09WTJJNVpHTXpNakE0T0RrdWJXbGpjbTl6YjJaMExtTnZiUQremarks=%E5%8F%B0%E6%B9%BE02&obfsParam=cdn.bootcdn.net&path=/hls&obfs=websocket&cert=
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@sg11.naigai1.club:443/?peer=sg11.naigai1.club#%E7%8B%AE%E5%9F%8E06
