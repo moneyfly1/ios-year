@@ -1,5 +1,6 @@
 #eddiehome
-vmess://YXV0bzpiYzljMjE4OC1lY2Q3LTQ3NWUtYWM2NS0zYmZiYmFjZWNmNmNAbmF0MS5tbG5sLmhvc3Q6NTMwMQ?remarks=%E9%A6%99%E6%B8%AF17&obfs=websocket&cert=
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@jp04.naigai1.club:443/?peer=jp04.naigai1.club#%E6%97%A5%E6%9C%AC0
 ssr://c2hhbmdoYWktYW55Y2FzdC52b2RhZm9uZS5jeW91OjIwMTc6YXV0aF9hZXMxMjhfc2hhMTphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpZMUZPT0hKV1dubFhRVW8vP3JlbWFya3M9UVhNZzVwZWw1cHlzSURBNCZwcm90b3BhcmFtPU16SXdPRGc1T2tOSlRtNUtZZyZvYmZzcGFyYW09WTJJNVpHTXpNakE0T0RrdWJXbGpjbTl6YjJaMExtTnZiUQ
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@us02.naigai1.club:443/?peer=us02.naigai1.club#%E7%BE%8E%E5%9B%BD02
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@jp05.naigai1.club:443/?peer=jp05.naigai1.club#%E6%97%A5%E6%9C%AC04
+trojan://T9MTTc@jp69.huashaobei.com:443/?peer=#T%20JP%E8%8A%82%E7%82%B9
+ssr://MTIwLjIzMi4xOTMuMjA6NTEzOTI6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46Wm5wbFp6QkkvP3JlbWFya3M9NmFhWjVyaXYmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
