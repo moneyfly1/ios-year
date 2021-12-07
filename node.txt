@@ -1,4 +1,8 @@
 #eddiehome
+vmess://YXV0bzpiYzljMjE4OC1lY2Q3LTQ3NWUtYWM2NS0zYmZiYmFjZWNmNmNAaWVwbC5uYWlnYWkxLmNsdWI6MTc3NzU?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A11&obfsParam=103.172.116.47&obfs=websocket&cert=
+vmess://YXV0bzpiYzljMjE4OC1lY2Q3LTQ3NWUtYWM2NS0zYmZiYmFjZWNmNmNAaGluZXQucG9sb2RkbnMueHl6OjIzODI1?remarks=%E5%8F%B0%E6%B9%BE0&obfsParam=hinet.poloddns.xyz&obfs=websocket&cert=
+ss://YWVzLTEyOC1nY206QGllcGwubmFpZ2FpMS5jbHViOjE5ODg4#%E6%97%A5%E6%9C%AC0
+ss://YWVzLTEyOC1nY206QGd5LmM2Lm5rZW8udG9wOjQ1MjY3#%E6%96%B0%E5%8A%A0%E5%9D%A10
 vmess://YXV0bzpiYzljMjE4OC1lY2Q3LTQ3NWUtYWM2NS0zYmZiYmFjZWNmNmNAaWVwbC5uYWlnYWkxLmNsdWI6MTMzMzM?remarks=ed%20%E9%A6%99%E6%B8%AF1&obfsParam=nat1.mlnl.host&obfs=websocket&cert= 
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@onejp.naigai1.club:443/?peer=#ed%20%E6%97%A5%E6%9C%AC0
 ss://YWVzLTI1Ni1nY206NjE3NDAwNTAtZDJkMC00MDY2LTk5MjAtZWM3MDg1YTE3MmQ0QHhydm4ucngxNDAueHRvbmwuY29tOjIyMzQ#%E6%97%A5%E6%9C%AC%2001
