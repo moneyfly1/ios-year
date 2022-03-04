@@ -1,4 +1,5 @@
 #eddiehome
+trojan://T9MTTc@43.154.204.58:443/?peer=cc-121.qqtang.xyz#XHK%E8%8A%82%E7%82%B9
 vmess://Y2hhY2hhMjAtcG9seTEzMDU6MDhjMTMzNDctNGIzNC0zMmJjLWIyOTItMTg4N2I5ZDQyZDMxQGluMDEuZG5zMjMzMy54eXo6NjQwMTQ?remarks=V1-%E7%BE%8E%E5%9B%BD01&obfsParam=biteb-us01.covid19.rip&path=/biteb&obfs=websocket&tls=1&peer=biteb-us01.covid19.rip&allowInsecure=1
 vmess://Y2hhY2hhMjAtcG9seTEzMDU6MDhjMTMzNDctNGIzNC0zMmJjLWIyOTItMTg4N2I5ZDQyZDMxQGluMDEuZG5zMjMzMy54eXo6NjQwNTE?remarks=%F0%9F%87%AE%F0%9F%87%B3%20V2-%E5%8D%B0%E5%BA%A601&obfsParam=biteb-in01.airport-v2.com&path=/hls&obfs=websocket&tls=1&peer=biteb-in01.airport-v2.com&allowInsecure=1
 ssr://Z3p5ZGRkbnMueHl6OjExODQyOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP3JlbWFya3M9NWJtXzVwZWw1cHlzSUVRJnByb3RvcGFyYW09TVRNMk5EZzZTVXg2U2pKeCZvYmZzcGFyYW09WkRrM1lqQXhNelkwT0M1dGFXTnliM052Wm5RdVkyOXQ
