@@ -1,6 +1,5 @@
 #eddiehome
-https://newsubscribe.hlasw.com/api/v1/client/subscribe?token=ad6fb4e38d0addd855cac636a19a25ec
-trojan://a9289ac3-90a6-328c-b0dc-2cc73bb9d6b8@shcn2.hnyhgl.com:30001/?peer=api.floatcloud.live#%E9%A6%99%E6%B8%AF
-vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hjbS5obnloZ2wuY29tOjIwMDEw?remarks=%E5%8F%B0%E6%B9%BE&obfsParam=tw108.1loli.pw&path=/game&obfs=websocket&tls=1&alterId=0
-vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2R0dS5obnloZ2wuY29tOjIwMDA3?remarks=%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD&obfsParam=api.floatcloud.live&path=/us-1&obfs=websocket&tls=1&alterId=0
-ssr://c2guc2hjdWRkbnMueHl6OjExNDIwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP3JlbWFya3M9NmFhWjVyaXYmcHJvdG9wYXJhbT1NVE0yTkRnNk5XaGxhMEp5TTNSNFlrcyZvYmZzcGFyYW09TmpVME5EVXhNelkwT0M1dGFXTnliM052Wm5RdVkyOXQ
+ssr://c2guc2hjdWRkbnMueHl6OjExNDI4OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP3JlbWFya3M9NUxpSzVZLXc1cm0tSUVnJnByb3RvcGFyYW09TVRnMU5qSTZjMUYwY1RNeSZvYmZzcGFyYW09WmpCa05Ea3hPRFUyTWk1dGFXTnliM052Wm5RdVkyOXQ
+vmess://YXV0bzphZWNhZDVmMS01OWFkLTQxOTUtOTA0OC0xOTQyN2FlMjAxZDFAMDA5YS5OQS5QT1AuQklHQUlSUE9SVC5ORVQ6ODA?remarks=SJC/%E5%9C%A3%E8%8D%B7%E8%A5%BF&obfs=websocket&tfo=1&alterId=0
+vmess://YXV0bzphZWNhZDVmMS01OWFkLTQxOTUtOTA0OC0xOTQyN2FlMjAxZDFAMDA3YS5BUC5QT1AuQklHQUlSUE9SVC5ORVQ6ODA?remarks=ICN/%E9%A6%96%E5%B0%94&obfs=websocket&tfo=1&alterId=0
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6NDc3ZmIyYTAtZGFmNC0zMDQxLWI2ZjYtNWRlM2Y0MmVjYzY5QGluMDEuZG5zMjMzMy54eXo6NjQwMTQ?remarks=%F0%9F%87%BA%F0%9F%87%B2%20V1-%E7%BE%8E%E5%9B%BD0&obfsParam=biteb-us01.covid19.rip&path=/biteb&obfs=websocket&tls=1&peer=biteb-us01.covid19.rip&allowInsecure=1
