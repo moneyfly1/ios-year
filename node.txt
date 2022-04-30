@@ -1,5 +1,6 @@
 #eddiehome
-ssr://c2guc2hjdWRkbnMueHl6OjExNDI4OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP3JlbWFya3M9NUxpSzVZLXc1cm0tSUVnJnByb3RvcGFyYW09TVRnMU5qSTZjMUYwY1RNeSZvYmZzcGFyYW09WmpCa05Ea3hPRFUyTWk1dGFXTnliM052Wm5RdVkyOXQ
-vmess://YXV0bzphZWNhZDVmMS01OWFkLTQxOTUtOTA0OC0xOTQyN2FlMjAxZDFAMDA5YS5OQS5QT1AuQklHQUlSUE9SVC5ORVQ6ODA?remarks=SJC/%E5%9C%A3%E8%8D%B7%E8%A5%BF&obfs=websocket&tfo=1&alterId=0
-vmess://YXV0bzphZWNhZDVmMS01OWFkLTQxOTUtOTA0OC0xOTQyN2FlMjAxZDFAMDA3YS5BUC5QT1AuQklHQUlSUE9SVC5ORVQ6ODA?remarks=ICN/%E9%A6%96%E5%B0%94&obfs=websocket&tfo=1&alterId=0
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NDc3ZmIyYTAtZGFmNC0zMDQxLWI2ZjYtNWRlM2Y0MmVjYzY5QGluMDEuZG5zMjMzMy54eXo6NjQwMTQ?remarks=%F0%9F%87%BA%F0%9F%87%B2%20V1-%E7%BE%8E%E5%9B%BD0&obfsParam=biteb-us01.covid19.rip&path=/biteb&obfs=websocket&tls=1&peer=biteb-us01.covid19.rip&allowInsecure=1
+ssr://Z3p5ZGRkbnMueHl6OjExODA3OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Um1oaVpUQjYvP3JlbWFya3M9NXBhdzVZcWc1WjJoJnByb3RvcGFyYW09TVRnMU5qSTZjMUYwY1RNeSZvYmZzcGFyYW09WmpCa05Ea3hPRFUyTWk1dGFXTnliM052Wm5RdVkyOXQ
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAZ3p0Yy5obnloZ2wuY29tOjIwMDA4?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1-&obfsParam=api.floatcloud.live&path=/sgp-1&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2R0dS5obnloZ2wuY29tOjIwMDA3?remarks=%E7%BE%8E%E5%9B%BD&obfsParam=api.floatcloud.live&path=/us-1&obfs=websocket&tls=1&alterId=0
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6NDc3ZmIyYTAtZGFmNC0zMDQxLWI2ZjYtNWRlM2Y0MmVjYzY5QGluMDEuZG5zMjMzMy54eXo6NjQwNTE?remarks=%E5%8D%B0%E5%BA%A601&obfsParam=biteb-in01.airport-v2.com&path=/hls&obfs=websocket&tls=1&peer=biteb-in01.airport-v2.com&allowInsecure=1
+trojan://T9MTTc@43.129.187.181:443/?peer=ccc.tkblogs.win#HK%E8%8A%82%E7%82%B9%20tk
